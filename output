@@ -1,0 +1,425 @@
+path to attr: /BDMV
+find_inode: /BDMV
+buffered path: BDMV
+partial path: BDMV
+current processing path: BDMV
+direct relative inode: BDMV
+get block: 1	return code: 0
+data offset: 0	dir entry name: .
+data offset: 64	dir entry name: ..
+data offset: 128	dir entry name: 
+data offset: 192	dir entry name: 
+data offset: 256	dir entry name: 
+data offset: 320	dir entry name: 
+data offset: 384	dir entry name: 
+data offset: 448	dir entry name: 
+data offset: 512	dir entry name: 
+data offset: 576	dir entry name: 
+data offset: 640	dir entry name: 
+data offset: 704	dir entry name: 
+data offset: 768	dir entry name: 
+data offset: 832	dir entry name: 
+data offset: 896	dir entry name: 
+data offset: 960	dir entry name: 
+found: 0
+get attr done.
+path to attr: /.xdg-volume-info
+find_inode: /.xdg-volume-info
+buffered path: .xdg-volume-info
+partial path: .xdg-volume-info
+current processing path: .xdg-volume-info
+direct relative inode: .xdg-volume-info
+get block: 1	return code: 0
+data offset: 0	dir entry name: .
+data offset: 64	dir entry name: ..
+data offset: 128	dir entry name: 
+data offset: 192	dir entry name: 
+data offset: 256	dir entry name: 
+data offset: 320	dir entry name: 
+data offset: 384	dir entry name: 
+data offset: 448	dir entry name: 
+data offset: 512	dir entry name: 
+data offset: 576	dir entry name: 
+data offset: 640	dir entry name: 
+data offset: 704	dir entry name: 
+data offset: 768	dir entry name: 
+data offset: 832	dir entry name: 
+data offset: 896	dir entry name: 
+data offset: 960	dir entry name: 
+found: 0
+get attr done.
+path to attr: /autorun.inf
+find_inode: /autorun.inf
+buffered path: autorun.inf
+partial path: autorun.inf
+current processing path: autorun.inf
+direct relative inode: autorun.inf
+path to attr: /
+find_inode: /
+buffered path: 
+partial path: (null)
+I get it!!!!!!!
+found: 1
+get attr done.
+get block: 1	return code: 0
+data offset: 0	dir entry name: .
+data offset: 64	dir entry name: ..
+data offset: 128	dir entry name: 
+data offset: 192	dir entry name: 
+data offset: 256	dir entry name: 
+data offset: 320	dir entry name: 
+data offset: 384	dir entry name: 
+data offset: 448	dir entry name: 
+data offset: 512	dir entry name: 
+data offset: 576	dir entry name: 
+data offset: 640	dir entry name: 
+data offset: 704	dir entry name: 
+data offset: 768	dir entry name: 
+data offset: 832	dir entry name: 
+data offset: 896	dir entry name: 
+data offset: 960	dir entry name: 
+found: 0
+get attr done.
+path to readdir: /
+find_inode: /
+buffered path: 
+partial path: (null)
+I get it!!!!!!!
+
+file name: .
+file name: ..path to attr: /a
+find_inode: /a
+buffered path: a
+partial path: a
+current processing path: a
+direct relative inode: a
+get block: 1	return code: 0
+data offset: 0	dir entry name: .
+data offset: 64	dir entry name: ..
+data offset: 128	dir entry name: 
+data offset: 192	dir entry name: 
+data offset: 256	dir entry name: 
+data offset: 320	dir entry name: 
+data offset: 384	dir entry name: 
+data offset: 448	dir entry name: 
+data offset: 512	dir entry name: 
+data offset: 576	dir entry name: 
+data offset: 640	dir entry name: 
+data offset: 704	dir entry name: 
+data offset: 768	dir entry name: 
+data offset: 832	dir entry name: 
+data offset: 896	dir entry name: 
+data offset: 960	dir entry name: 
+found: 0
+get attr done.
+path to create: /a
+find_parent_inode: /a
+find_inode: /
+buffered path: 
+partial path: (null)
+I get it!!!!!!!
+create find parent: 1
+create name: a
+direct relative inode: a
+get block: 1	return code: 0
+data offset: 0	dir entry name: .
+data offset: 64	dir entry name: ..
+data offset: 128	dir entry name: 
+data offset: 192	dir entry name: 
+data offset: 256	dir entry name: 
+data offset: 320	dir entry name: 
+data offset: 384	dir entry name: 
+data offset: 448	dir entry name: 
+data offset: 512	dir entry name: 
+data offset: 576	dir entry name: 
+data offset: 640	dir entry name: 
+data offset: 704	dir entry name: 
+data offset: 768	dir entry name: 
+data offset: 832	dir entry name: 
+data offset: 896	dir entry name: 
+data offset: 960	dir entry name: 
+entry inode: 1	entry name: .
+entry inode: 1	entry name: ..
+entry inode: 0	entry name: 
+data block index: 1	offset: 128
+create return code: 0
+path to attr: /a
+find_inode: /a
+buffered path: a
+partial path: a
+current processing path: a
+direct relative inode: a
+get block: 1	return code: 0
+data offset: 0	dir entry name: .
+data offset: 64	dir entry name: ..
+data offset: 128	dir entry name: a
+found indeed.
+I get it!!!!!!!
+found: 1
+get attr done.
+path to readdir: /
+find_inode: /
+buffered path: 
+partial path: (null)
+I get it!!!!!!!
+path to utimens: /a
+find_inode: /a
+buffered path: a
+partial path: a
+current processing path: a
+direct relative inode: a
+
+file name: .
+file name: ..
+file name: apath to readdir: /
+find_inode: /
+buffered path: 
+partial path: (null)
+I get it!!!!!!!
+get block: 1	return code: 0
+data offset: 0	dir entry name: .
+data offset: 64	dir entry name: ..
+data offset: 128	dir entry name: a
+found indeed.
+current processing path: disk.me
+direct relative inode: disk.me
+
+file name: .
+file name: ..
+file name: apath to readdir: /
+find_inode: /
+buffered path: 
+partial path: (null)
+I get it!!!!!!!
+
+file name: .
+file name: ..
+file name: apath to attr: /a
+find_inode: /a
+buffered path: a
+partial path: a
+current processing path: a
+direct relative inode: a
+get block: 1	return code: 0
+data offset: 0	dir entry name: .
+data offset: 64	dir entry name: ..
+data offset: 128	dir entry name: a
+found indeed.
+I get it!!!!!!!
+found: 1
+get attr done.
+path to readdir: /
+find_inode: /
+buffered path: 
+partial path: (null)
+I get it!!!!!!!
+
+file name: .
+file name: ..
+file name: apath to readdir: /
+find_inode: /
+buffered path: 
+partial path: (null)
+I get it!!!!!!!
+
+file name: .
+file name: ..
+file name: apath to readdir: /
+find_inode: /
+buffered path: 
+partial path: (null)
+I get it!!!!!!!
+
+file name: .
+file name: ..
+file name: apath to attr: /a
+find_inode: /a
+buffered path: a
+partial path: a
+current processing path: a
+direct relative inode: a
+get block: 1	return code: 0
+data offset: 0	dir entry name: .
+data offset: 64	dir entry name: ..
+data offset: 128	dir entry name: a
+found indeed.
+I get it!!!!!!!
+found: 1
+get attr done.
+path to readdir: /
+find_inode: /
+buffered path: 
+partial path: (null)
+I get it!!!!!!!
+
+file name: .
+file name: ..
+file name: apath to readdir: /
+find_inode: /
+buffered path: 
+partial path: (null)
+I get it!!!!!!!
+
+file name: .
+file name: ..
+file name: apath to attr: /a
+find_inode: /a
+buffered path: a
+partial path: a
+current processing path: a
+direct relative inode: a
+get block: 1	return code: 0
+data offset: 0	dir entry name: .
+data offset: 64	dir entry name: ..
+data offset: 128	dir entry name: a
+found indeed.
+I get it!!!!!!!
+found: 1
+get attr done.
+path to readdir: /
+find_inode: /
+buffered path: 
+partial path: (null)
+I get it!!!!!!!
+
+file name: .
+file name: ..
+file name: apath to readdir: /
+find_inode: /
+buffered path: 
+partial path: (null)
+I get it!!!!!!!
+
+file name: .
+file name: ..
+file name: apath to readdir: /
+find_inode: /
+buffered path: 
+partial path: (null)
+I get it!!!!!!!
+
+file name: .
+file name: ..
+file name: apath to attr: /a
+find_inode: /a
+buffered path: a
+partial path: a
+current processing path: a
+direct relative inode: a
+get block: 1	return code: 0
+data offset: 0	dir entry name: .
+data offset: 64	dir entry name: ..
+data offset: 128	dir entry name: a
+found indeed.
+I get it!!!!!!!
+found: 1
+get attr done.
+path to readdir: /
+find_inode: /
+buffered path: 
+partial path: (null)
+I get it!!!!!!!
+
+file name: .
+file name: ..
+file name: apath to readdir: /
+find_inode: /
+buffered path: 
+partial path: (null)
+I get it!!!!!!!
+
+file name: .
+file name: ..
+file name: apath to attr: /a
+find_inode: /a
+buffered path: a
+partial path: a
+current processing path: a
+direct relative inode: a
+get block: 1	return code: 0
+data offset: 0	dir entry name: .
+data offset: 64	dir entry name: ..
+data offset: 128	dir entry name: a
+found indeed.
+I get it!!!!!!!
+found: 1
+get attr done.
+path to readdir: /
+find_inode: /
+buffered path: 
+partial path: (null)
+I get it!!!!!!!
+
+file name: .
+file name: ..
+file name: apath to readdir: /
+find_inode: /
+buffered path: 
+partial path: (null)
+I get it!!!!!!!
+
+file name: .
+file name: ..
+file name: apath to readdir: /
+find_inode: /
+buffered path: 
+partial path: (null)
+I get it!!!!!!!
+
+file name: .
+file name: ..
+file name: apath to attr: /a
+find_inode: /a
+buffered path: a
+partial path: a
+current processing path: a
+direct relative inode: a
+get block: 1	return code: 0
+data offset: 0	dir entry name: .
+data offset: 64	dir entry name: ..
+data offset: 128	dir entry name: a
+found indeed.
+I get it!!!!!!!
+found: 1
+get attr done.
+path to readdir: /
+find_inode: /
+buffered path: 
+partial path: (null)
+I get it!!!!!!!
+
+file name: .
+file name: ..
+file name: apath to readdir: /
+find_inode: /
+buffered path: 
+partial path: (null)
+I get it!!!!!!!
+
+file name: .
+file name: ..
+file name: apath to attr: /autorun.inf
+find_inode: /autorun.inf
+buffered path: autorun.inf
+partial path: autorun.inf
+current processing path: autorun.inf
+direct relative inode: autorun.inf
+get block: 1	return code: 0
+data offset: 0	dir entry name: .
+data offset: 64	dir entry name: ..
+data offset: 128	dir entry name: a
+data offset: 192	dir entry name: 
+data offset: 256	dir entry name: 
+data offset: 320	dir entry name: 
+data offset: 384	dir entry name: 
+data offset: 448	dir entry name: 
+data offset: 512	dir entry name: 
+data offset: 576	dir entry name: 
+data offset: 640	dir entry name: 
+data offset: 704	dir entry name: 
+data offset: 768	dir entry name: 
+data offset: 832	dir entry name: 
+data offset: 896	dir entry name: 
+data offset: 960	dir entry name: 
+found: 0
+get attr done.
